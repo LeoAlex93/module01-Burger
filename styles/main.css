@@ -14,13 +14,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-<<<<<<< HEAD
     padding-right: 15px;
     padding-left: 15px;
-=======
     padding-left: 15px;
     padding-right: 15px;
->>>>>>> 977a88398e5727e1ba0f77e6096b04c45ea254d2
     padding-bottom: 26px;
     padding-top: 26px;
 }
@@ -61,7 +58,7 @@ body {
 .header-nav a.active::after {
     background: #FFC725;
 }
-<<<<<<< HEAD
+
 
 .button {
     display: flex;
@@ -95,5 +92,3 @@ body {
     font-weight: 700;
     font-size: 15px;
 }
-=======
->>>>>>> 977a88398e5727e1ba0f77e6096b04c45ea254d2
