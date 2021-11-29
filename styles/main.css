@@ -23,6 +23,7 @@ body {
 }
 
 
+
 .header-logo {
     display: block;
     background-image: url(../images/Logo.svg);
@@ -91,4 +92,55 @@ body {
     color: #443737;
     font-weight: 700;
     font-size: 15px;
+}
+
+.bg {
+    text-align: center;
+    background-image: url(..//images/bg.jpg);
+    color: #ffffff;
+    background-size: cover;
+    background-position: center;
+    padding: 142px 0;
+}
+
+.breadcrumbs {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+}
+
+
+.breadcrumbs a {
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    color: #DEDEDE;
+    font-size: 15px;
+}
+.breadcrumbs a::before {
+    content: '/';
+    position: relative;
+    left: -7px;
+}
+
+.breadcrumbs li:first-child a::before {
+    display: none;
+}
+
+.title {
+    font-size: 79px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 15px;
+    color: #FAF9F9;
+    list-style: 1.5;
+    max-width: 320px;
+    margin: 0 auto;
+
 }
