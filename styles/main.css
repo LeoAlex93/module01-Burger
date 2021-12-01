@@ -40,7 +40,7 @@ header {
 .header-nav {
     display: flex;
     list-style-type: none;
-    padding-left: 0;
+    padding-right: 137px;
     gap: 46px;
 }
 
