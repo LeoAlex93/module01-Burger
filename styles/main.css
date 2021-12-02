@@ -170,7 +170,7 @@ header {
     background-size: cover;
     height: 438px;
     margin-top: 140px;
-    margin-bottom: 100px;
+    margin-bottom: 115px;
     padding-left: 100px;
     
 }
@@ -181,10 +181,10 @@ header {
     color: #ffffff;
     background:#F37335;
     border-radius: 14px;
-    padding: 8px 18px;
+    padding: 5px 18px;
     text-transform: uppercase;
     display: block;
-    max-width: 80px;
+    max-width: 58px;
     text-align: center;
 
 }
