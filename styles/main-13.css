@@ -168,8 +168,11 @@ header {
     background-image: url(..//images/banner.jpg);
     background-position: center center;
     background-size: cover;
+    padding-left: 116px;
+    margin-bottom: 115px;
     margin-top: 140px;
     height: 438px
+    
 }
 
 .banner-title span {
@@ -182,7 +185,7 @@ header {
     padding: 5px 18px;
     text-transform: uppercase;
     display: block;
-    max-width: 60px;
+    max-width: 58px;
 
 }
 
@@ -192,7 +195,7 @@ header {
     font-weight: 900;
     color: #ffffff;
     padding-top: 60px;
-    padding-left: 110px;
+    padding-left: 99px;
     margin:0;
 }
 
@@ -201,7 +204,7 @@ header {
     padding-left: 115px;
     padding-bottom: 15px;
     line-height: 24px;
-    max-width: 322px;
+    max-width: 340px;
 }
 
 .banner-link {
@@ -213,7 +216,6 @@ header {
     background:#FBB731;
     border-radius: 5px;
     padding: 20px 25px;
-    margin-left: 115px;
 }
 
 .menu-header {
@@ -286,21 +288,26 @@ header {
     color:#979797;
 }
 
-.menu-grid-icon span {
+.menu-grid-icon  {
     background: url(../images/cart-menu.svg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    
-    
+    display: block;
+    width: 18px;
+    height: 18px;
     
 }
   .btn {
-        
         background:#FBB731;
         border: none;
         text-transform: uppercase;
         width: 152px;
         height: 38px;
         border-radius: 5px;
+        display: flex;
         align-items: center;
+        margin:0 auto;
+        justify-content: space-around;
+        padding: 0 22px;
+        
     }
