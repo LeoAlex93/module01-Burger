@@ -169,8 +169,8 @@ header {
     background-position: center center;
     background-size: cover;
     padding-left: 116px;
-    margin-bottom: 115px;
     margin-top: 140px;
+    margin-bottom: 20px;
     height: 438px
     
 }
@@ -220,6 +220,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 19px;
 }
 
 .menu-title {
@@ -227,7 +228,7 @@ header {
     color: #1B2A49;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 100px;
+    margin-top: 93px;
 }
 
 .menu-select {
@@ -246,7 +247,7 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 58px;
     
 }
 
