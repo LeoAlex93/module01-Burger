@@ -338,11 +338,13 @@ header {
     font-weight: 800;
     text-transform: uppercase;
     margin-bottom: 5px;
+    margin-top: 0;
 }
 .footer-item ul,
 .footer-tel ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
 }
 .footer-item li {
     margin-bottom: 9px;
@@ -367,7 +369,7 @@ header {
     font-size: 20px;
     font-weight: 800;
     color: #FBB731;
-    margin-bottom: 21px;
+    margin: 0;
 }
 .footer-tel li {
     margin-bottom: 12px;
