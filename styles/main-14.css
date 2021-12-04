@@ -247,7 +247,7 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 58px;
+    gap: 63px 3px;
     
 }
 
