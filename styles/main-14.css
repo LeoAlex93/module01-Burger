@@ -317,7 +317,7 @@ header {
     color: #fff;
     padding-top: 117px;
     padding-bottom: 106px;
-    margin-top: 140px;
+    margin-top: 155px;
 }
 
 .footer-box {
@@ -337,7 +337,7 @@ header {
     font-size: 20px;
     font-weight: 800;
     text-transform: uppercase;
-    margin-bottom: 12px;
+    margin-bottom: 5px;
 }
 .footer-item ul,
 .footer-tel ul {
@@ -367,6 +367,7 @@ header {
     font-size: 20px;
     font-weight: 800;
     color: #FBB731;
+    margin-bottom: 21px;
 }
 .footer-tel li {
     margin-bottom: 12px;
