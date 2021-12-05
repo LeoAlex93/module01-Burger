@@ -381,11 +381,18 @@ header {
     font-weight: 400;
     margin-bottom: 2px;
 }
+
+.footer-tel ul{
+    margin:0;
+}
+.footer-list-tel li {
+    margin:0;
+}
+
 .footer-list-tel a {
     font-size: 20px;
     font-weight: 800;
     color: #FBB731;
-    margin: 0;
     text-decoration: none;
 }
 
