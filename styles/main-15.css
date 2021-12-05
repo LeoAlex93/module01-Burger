@@ -29,7 +29,7 @@ header {
 .header-item {
     display: flex;
     justify-content: space-between;
-    flex-basis: 80%;
+    flex-basis: 68%;
 }
 
 .header-logo {
