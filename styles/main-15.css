@@ -25,7 +25,7 @@ header {
 
 .header-item {
     display: flex;
-    flex-basis: 50%;
+    flex-basis: 79.5%;
     justify-content: space-between;
 }
 
