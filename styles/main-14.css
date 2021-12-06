@@ -166,7 +166,8 @@ header {
     padding-left: 116px;
     margin-top: 140px;
     margin-bottom: 20px;
-    height: 438px
+    padding-top:107px;
+    padding-left: 116px;
     
 }
 
@@ -215,7 +216,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 19px;
 }
 
 .menu-title {
