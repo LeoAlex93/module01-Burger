@@ -169,9 +169,9 @@ header {
     background-position: center center;
     background-size: cover;
     padding-bottom: 135px;
-    padding-top: 108px;
+    padding-top: 102px;
     padding-left: 100px;
-    margin-top: 143px;
+    margin-top: 171px;
     margin-bottom: 20px;
 }
 
@@ -234,7 +234,6 @@ header {
     color: #1B2A49;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 93px;
 }
 
 .menu-select {
