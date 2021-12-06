@@ -18,11 +18,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-bottom: 26px;
-    padding-top: 26px;
+    padding-bottom: 20px;
+    padding-top: 44px;
+
 }
-
-
 
 .header-logo {
     display: block;
