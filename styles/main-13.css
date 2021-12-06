@@ -164,9 +164,9 @@ header {
     background-position: center center;
     background-size: cover;
     padding-bottom: 135px;
-    padding-top: 107px;
-    padding-left: 116px;
-    margin-top: 140px;
+    padding-top: 108px;
+    padding-left: 100px;
+    margin-top: 143px;
     margin-bottom: 20px;
 }
 
@@ -175,9 +175,9 @@ header {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background:#F37335;
+    background: #F37335;
     border-radius: 14px;
-    padding: 5px 18px;
+    padding: 8px 19px;
     text-transform: uppercase;
     display: block;
     max-width: 58px;
