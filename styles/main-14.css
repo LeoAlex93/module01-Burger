@@ -145,15 +145,15 @@ header {
     font-size: 79px;
     font-weight: 700;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 21px;
     padding-right: 8px;
 }
 
 .description {
-    font-size: 15px;
-    line-height: 30px;
+    font-size: 16px;
+    line-height: 25px;
     color: #FAF9F9;
-    max-width: 318px;
+    max-width: 331px;
     margin: 0 auto;
 }
 
