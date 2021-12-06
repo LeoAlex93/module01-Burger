@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-    max-width: 1215px;
+    max-width: 1185px;
     margin: 0 auto;
     
 }
@@ -163,11 +163,11 @@ header {
     background-image: url(..//images/banner.jpg);
     background-position: center center;
     background-size: cover;
-    padding-left: 116px;
-    margin-top: 140px;
+    padding-bottom: 135px;
+    padding-top: 108px;
+    padding-left: 100px;
+    margin-top: 143px;
     margin-bottom: 20px;
-    padding-left: 116px;
-    
 }
 
 .banner-title span {
@@ -175,9 +175,9 @@ header {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background:#F37335;
+    background: #F37335;
     border-radius: 14px;
-    padding: 5px 18px;
+    padding: 8px 19px;
     text-transform: uppercase;
     display: block;
     max-width: 58px;
@@ -194,10 +194,11 @@ header {
 
 .banner-text {
     font-size: 15px;
-    color:#FAF9F9;
+    color: #FAF9F9;
     padding-bottom: 15px;
     line-height: 24px;
-    max-width: 340px;
+    max-width: 324px;
+    
 }
 
 .banner-link {
@@ -241,7 +242,7 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 63px 3px;
+    gap: 58px;
     
 }
 
@@ -304,66 +305,4 @@ header {
         padding: 0 22px;
         cursor: pointer;
         
-}
-
-.footer {
-    background: #1E2F40;
-    color: #fff;
-    padding-top: 117px;
-    padding-bottom: 106px;
-    margin-top: 155px;
-}
-
-.footer-box {
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.footer-logo {
-    width: 63px;
-    height: 56px;
-}
-.footer-item {
-    flex: 0 0 auto;
-}
-.footer-item h2 {
-    font-size: 20px;
-    font-weight: 800;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-    margin-top: 0;
-}
-.footer-item ul,
-.footer-tel ul {
-    list-style-type: none;
-    padding: 0;
-}
-.footer-item li {
-    margin-bottom: 9px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
-    color: #FAF9F9;
-    font-weight: 700;
-    line-height: 24px;
-}
-.footer-item a {
-    color: #DEDEDE;
-    text-decoration: none;
-    font-weight: 400;
-}
-.footer-item span {
-    color: #DEDEDE;
-    display: block;
-    font-weight: 400;
-    margin-bottom: 2px;
-}
-.footer-tel ul {
-    font-size: 20px;
-    font-weight: 800;
-    color: #FBB731;
-    margin: 0;
-}
-.footer-tel li {
-    margin-bottom: 12px;
 }
