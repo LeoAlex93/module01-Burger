@@ -23,6 +23,12 @@ header {
 
 }
 
+.header-item {
+    display: flex;
+    flex-basis: 50%;
+    justify-content: space-between;
+}
+
 .header-logo {
     display: block;
     background-image: url(../images/Logo.svg);
