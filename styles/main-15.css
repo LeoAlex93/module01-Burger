@@ -252,7 +252,7 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 58px;
+    gap: 58px 20px;
     
 }
 
@@ -301,6 +301,11 @@ header {
     height: 18px;
     
 }
+
+.menu-grid-text {
+    font-size: 14px;
+    font-weight: 700;
+}
 .menu-btn {
         background:#FBB731;
         border: none;
@@ -310,9 +315,8 @@ header {
         border-radius: 5px;
         display: flex;
         align-items: center;
-        margin:0 auto;
-        justify-content: space-around;
-        padding: 0 22px;
+        margin: 0 auto;
+        justify-content: center;
         cursor: pointer;
 }
 
@@ -325,7 +329,7 @@ header {
     color: #fff;
     padding-top: 117px;
     padding-bottom: 106px;
-    margin-top: 140px;
+    margin-top: 74px;
 }
 
 .footer-box {
