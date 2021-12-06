@@ -164,7 +164,7 @@ header {
     background-position: center center;
     background-size: cover;
     padding-bottom: 135px;
-    padding-top:107px;
+    padding-top: 107px;
     padding-left: 116px;
     margin-top: 140px;
     margin-bottom: 20px;
@@ -194,10 +194,11 @@ header {
 
 .banner-text {
     font-size: 15px;
-    color:#FAF9F9;
+    color: #FAF9F9;
     padding-bottom: 15px;
     line-height: 24px;
-    max-width: 340px;
+    max-width: 324px;
+    
 }
 
 .banner-link {
