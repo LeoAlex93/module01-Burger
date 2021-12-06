@@ -168,11 +168,11 @@ header {
     background-image: url(..//images/banner.jpg);
     background-position: center center;
     background-size: cover;
-    padding-bottom: 135px;
+    padding-bottom: 123px;
     padding-top: 102px;
     padding-left: 100px;
-    margin-top: 171px;
-    margin-bottom: 20px;
+    margin-top: 138px;
+    margin-bottom: 69px;
 }
 
 .banner-title span {
