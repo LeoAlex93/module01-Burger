@@ -217,6 +217,12 @@ header {
     padding: 20px 25px;
 }
 
+.banner-link:hover {
+    background:#1E2F40;
+    color:#FBB731;
+    border:1px solid #FBB731;
+}
+
 .menu-header {
     display: flex;
     align-items: center;
@@ -309,7 +315,10 @@ header {
         justify-content: space-around;
         padding: 0 22px;
         cursor: pointer;
-        
+}
+
+.menu-btn:hover {
+    background:#F37335;
 }
 
 .footer {
