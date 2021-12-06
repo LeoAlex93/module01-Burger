@@ -172,7 +172,7 @@ header {
     padding-top: 102px;
     padding-left: 100px;
     margin-top: 138px;
-    margin-bottom: 69px;
+    margin-bottom: 71px;
 }
 
 .banner-title span {
@@ -234,6 +234,15 @@ header {
     color: #1B2A49;
     font-weight: 700;
     text-transform: uppercase;
+}
+
+.menu-title-dop {
+    font-size: 44px;
+    color: #1B2A49;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 100px;
+
 }
 
 .menu-select {
@@ -329,7 +338,7 @@ header {
     color: #fff;
     padding-top: 117px;
     padding-bottom: 106px;
-    margin-top: 74px;
+    margin-top: 150px;
 }
 
 .footer-box {
