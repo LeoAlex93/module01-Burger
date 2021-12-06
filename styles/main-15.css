@@ -241,7 +241,7 @@ header {
     color: #1B2A49;
     font-weight: 700;
     text-transform: uppercase;
-    margin-top: 100px;
+    margin-top: 113px;
 
 }
 
@@ -327,6 +327,7 @@ header {
         margin: 0 auto;
         justify-content: center;
         cursor: pointer;
+        gap: 14px;
 }
 
 .menu-btn:hover {
