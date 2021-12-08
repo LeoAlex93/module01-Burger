@@ -502,6 +502,7 @@ header {
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 700;
+    transition: 0.3s;
 }
 
 .main a:hover,
