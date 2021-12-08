@@ -19,7 +19,7 @@ header {
     align-items: center;
     justify-content: space-between;
     padding-bottom: 20px;
-    padding-top: 44px;
+    padding-top: 20px;
 
 }
 
@@ -217,12 +217,13 @@ header {
     border-radius: 5px;
     padding: 20px 25px;
     transition: 0.3s;
+    border: 1px solid #FBB731;
 }
 
 .banner-link:hover {
     background:#1E2F40;
     color:#FBB731;
-    border:1px solid #FBB731;
+    border: 1px solid #FBB731;
 }
 
 .menu-header {
