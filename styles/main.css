@@ -6,6 +6,8 @@ body {
 .wrapper {
     max-width: 1185px;
     margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
     
 }
 
@@ -20,6 +22,7 @@ header {
     justify-content: space-between;
     padding-bottom: 20px;
     padding-top: 20px;
+    
 
 }
 
@@ -167,7 +170,7 @@ header {
 
 .banner-box {
     background-image: url(..//images/banner.jpg);
-    background-position: center center;
+    background-position: 0 center;
     background-size: cover;
     padding-bottom: 123px;
     padding-top: 102px;
@@ -604,3 +607,32 @@ header {
     margin-bottom: 10px;
 }
 
+/* Responsive*/
+@media (max-width: 1000px) {
+    .container {
+        max-width: 738px;
+    }
+
+    .header-logo {
+        width: 150px;
+        height: 48px;
+        background-size: contain;
+    }
+
+    .header-nav {
+        gap: 20px;
+    }
+
+    .header-item {
+        flex-basis: 88.5%;
+    }
+
+    .banner-box {
+        padding-left: 40px;
+    }
+
+    .menu-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 58px 20px;
+    }
+}
